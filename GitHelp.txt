@@ -13,5 +13,5 @@ git remote add origin https://github.com/andreaocean/OOP-58-2.git
 git status   | статус проекта
 git add .     | добавить все изменения в буфер обмена
 git commit -m "message" | сохранить изменения, которые в буфере обмена
-git push origin master | main    | отправить сохраненные изменения в репозиторий
+git push origin master  | отправить сохраненные изменения в репозиторий
 
